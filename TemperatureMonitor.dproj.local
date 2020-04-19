@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile Android="711KPXV0861514"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2020/04/18 17:03:56.000.096,C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Device Sensors and Services\Bluetooth\HeartRateMonitor\UTemperatureForm.fmx=C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Device Sensors and Services\Bluetooth\HeartRateMonitor\UHeartRateForm.fmx</Transaction>
+    <Transaction>2020/04/18 17:05:49.000.324,C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Device Sensors and Services\Bluetooth\HeartRateMonitor\TemperatureMonitor.dproj=C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Device Sensors and Services\Bluetooth\HeartRateMonitor\HeartRateMonitor.dproj</Transaction>
+    <Transaction>2020/04/19 10:41:00.000.553,C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Device Sensors and Services\Bluetooth\HeartRateMonitor\uBackEnd.pas=</Transaction>
+    <Transaction>2020/04/19 10:41:49.000.033,=C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Device Sensors and Services\Bluetooth\HeartRateMonitor\uBackEnd.pas</Transaction>
+  </Transactions>
+</BorlandProject>
